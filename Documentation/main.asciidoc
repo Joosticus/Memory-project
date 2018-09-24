@@ -12,6 +12,8 @@ Hooft, Emiel
 Masselink, Tjibbe
 Raven, Niek
 
+S. Oosterhaven - Tutor
+
 B.A. Hensbergen - Productowner
 
 ## Projectomschrijving
